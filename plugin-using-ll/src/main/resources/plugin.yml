@@ -1,0 +1,6 @@
+name: PluginUsingLL
+main: com.reproducer.pluginusingll.Plugin
+author: A248
+version: ${project.version}
+libraries:
+  - 'com.github.ben-manes.caffeine:caffeine:3.0.4'
